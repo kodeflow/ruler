@@ -1,3 +1,3 @@
 # ruler
 android项目开发源码示例
-通过view的画笔实现的一个简易圆尺测角度的功能。
+通过android的view实现直尺以及圆尺的测量功能。
